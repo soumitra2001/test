@@ -1,0 +1,6 @@
+{{#user}}
+Name: Supriya Ghorai
+Skills: Java,Data Structure and Algorithm,Spring Boot,Hibernate,Git & GitHub,
+        HTML,CSS,Java Server Page,SQL,AWS EC2,JDBC,Spring MVC,OOP
+Email: supriyagro2001@gmail.com
+{{/user}}
